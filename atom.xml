@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-18T02:54:26.263Z</updated>
+  <updated>2019-03-18T03:32:58.558Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>First Blog</title>
+    <title>Magic of Sample</title>
     <link href="http://yoursite.com/2019/03/18/index/"/>
     <id>http://yoursite.com/2019/03/18/index/</id>
     <published>2019-03-18T02:48:52.000Z</published>
-    <updated>2019-03-18T02:54:26.263Z</updated>
+    <updated>2019-03-18T03:32:58.558Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Magic-of-Sample&quot;&gt;&lt;a href=&quot;#Magic-of-Sample&quot; class=&quot;headerlink&quot; title=&quot;Magic of Sample&quot;&gt;&lt;/a&gt;Magic of Sample&lt;/h2&gt;&lt;p&gt;Sample
+        
+      
     
     </summary>
     
