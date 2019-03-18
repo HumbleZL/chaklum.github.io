@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-18T01:44:33.254Z</updated>
+  <updated>2019-03-18T02:30:16.979Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/03/18/Magic-of-Sample/"/>
     <id>http://yoursite.com/2019/03/18/Magic-of-Sample/</id>
     <published>2019-03-18T01:35:26.023Z</published>
-    <updated>2019-03-18T01:44:33.254Z</updated>
+    <updated>2019-03-18T02:30:16.979Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;h2 id=&quot;Magic-of-Sample&quot;&gt;&lt;a href=&quot;#Magic-of-Sample&quot; class=&quot;headerlink&quot; title=&quot;Magic of Sample&quot;&gt;&lt;/a&gt;Magic of Sample&lt;/h2&gt;&lt;p&gt;Sample
+          &lt;p&gt;title: Magic of Sample&lt;br&gt;date: 2019-03-18 10:30:16&lt;/p&gt;
+&lt;h2 id=&quot;Magic-of-Sample&quot;&gt;&lt;a href=&quot;#Magic-of-Sample&quot; class=&quot;headerlink&quot;
         
       
     
